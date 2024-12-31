@@ -1,0 +1,16 @@
+section{
+    display: flex;
+}
+
+.text{
+    margin-right:300px;
+   
+    margin-left: 50px;
+    
+}
+
+#image{
+    width: 400px;
+    height: 400px;
+    
+}
