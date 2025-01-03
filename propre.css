@@ -58,18 +58,18 @@ button{
     border-radius: 15px;
     color:aliceblue;
     border: none;
-    background-color:sandybrown;
+    background-color: #eb662b;
 }
 #footer{
     margin-bottom: 0%;
 }
 h3{
-    margin: 50px;
+   margin-left: 150px;
 }
 .hd {
     margin-left: 330px;
     margin-top: -45px;
 }
 span{
-    color: chocolate;
+    color: #f28555;
 }
